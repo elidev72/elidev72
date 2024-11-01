@@ -21,9 +21,10 @@ class Perfil:
     def __init__(self):
         self.nombre = "Elías Ramil"
         self.usuario = "elidev72"
-        self.descripcion = """Desarrollador backend en crecimiento, con conocimientos en Python y Java. Apasionado por
-	el aprendizaje continuo y la mejora de habilidades técnicas, especialmente en el ámbito de programación y
-	análisis de datos. Busco contribuir en proyectos donde pueda aplicar y expandir mis habilidades."""
+        self.descripcion = """Desarrollador backend en crecimiento, con conocimientos en Python y Java.
+	Apasionado por el aprendizaje continuo y la mejora de habilidades técnicas, especialmente en el
+	ámbito de programación y análisis de datos. Busco contribuir en proyectos donde pueda aplicar y
+	expandir mis habilidades."""
         self.intereses = ["desarrollo web backend", "ciencia de datos", "gnu/linux"]
         self.estudios = (
             {"Carrera": "Analista Programador Universitario",
