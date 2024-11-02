@@ -62,7 +62,7 @@ class Perfil:
 ### 🗄️ **_Bases de Datos_**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### 🌐 **_Tecnologías Web*_*
+### 🌐 **_Tecnologías Web_**
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
