@@ -44,29 +44,29 @@ class Perfil:
 ## 🌟 **_Stack Tecnológico_**
 ---
 
-### 🖥️ **Lenguajes de Programación**
+### 🖥️ **_Lenguajes de Programación_**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
-### 🌐 **Tecnologías Web**
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-
-### ⚙️ **Frameworks y Bibliotecas**
-#### Python
+### ⚙️ **_Frameworks y Bibliotecas_**
+#### - Python
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-3E5B8C?style=flat&logo=sqlalchemy&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-008000?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-#### Java
+#### - Java
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 
-### 🗄️ **Bases de Datos**
+### 🗄️ **_Bases de Datos_**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### 🛠️ **Sistemas Operativos y Herramientas**
+### 🌐 **_Tecnologías Web*_*
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+
+### 🛠️ **_Sistemas Operativos y Herramientas_**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D24?style=flat&logo=debian&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
