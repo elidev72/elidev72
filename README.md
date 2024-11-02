@@ -30,7 +30,7 @@ class Perfil:
             {"Carrera": "Analista Programador Universitario",
              "Universidad": "Universidad Nacional de Lanús",
              "Ingreso": 2019,
-             "Egreso": 2025},
+             "Egreso": 2025}, # Fecha estimada de graduación
 
             {"Carrera": "Licenciatura en Ciencia de Datos",
              "Universidad": "Universidad Nacional Guillermo Brown",
