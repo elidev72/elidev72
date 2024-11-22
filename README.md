@@ -33,7 +33,7 @@ class Perfil:
              	"Ingreso": 2025,
              	"Egreso": 2027}, # Fecha estimada de graduación
 
-		          {"Carrera": "Licenciatura en Sistemas",
+		{"Carrera": "Licenciatura en Sistemas",
              	"Universidad": "Universidad Nacional de Lanús",
              	"Ingreso": 2019,
              	"Egreso": 2028} # Fecha estimada de graduación
