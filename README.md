@@ -53,13 +53,11 @@ class Perfil:
 
 ### ⚙️ **_Frameworks y Bibliotecas_**
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-3E5B8C?style=flat&logo=sqlalchemy&logoColor=white)
+	- ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+   	- ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-3E5B8C?style=flat&logo=sqlalchemy&logoColor=white)
   
 - ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-  
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+	- ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 
 ### 🗄️ **_Bases de Datos_**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
