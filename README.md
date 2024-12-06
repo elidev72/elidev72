@@ -13,8 +13,8 @@
 <br />
 <br />
 
-## 🚀 **_Mi Perfil_**:
 ---
+## 🚀 **_Mi Perfil_**:
 
 ```python
 class Perfil:
@@ -41,9 +41,8 @@ class Perfil:
 
 ```
 
-
-## 🌟 **_Tecnologias_**
 ---
+## 🌟 **_Tecnologias_**
 
 ### 🖥️ **_Lenguajes de Programación_**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
@@ -77,8 +76,8 @@ class Perfil:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
 
-## 📊 **_Estadísticas_**
 ---
+## 📊 **_Estadísticas_**
 
 <div align="center">
 <img alt="Estadisticas" src="https://github-readme-stats.vercel.app/api/?username=elidev72&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Lenguajes" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elidev72&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
