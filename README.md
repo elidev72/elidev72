@@ -36,7 +36,7 @@ class Perfil:
 		{"Carrera": "Licenciatura en Sistemas",
              	"Universidad": "Universidad Nacional de Lanús",
              	"Ingreso": 2019,
-             	"Egreso": 2028} # Fecha estimada de graduación
+             	"Egreso": 2027} # Fecha estimada de graduación
 	)
 
 ```
@@ -54,6 +54,8 @@ class Perfil:
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 	- ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
    	- ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-3E5B8C?style=flat&logo=sqlalchemy&logoColor=white)
+   	- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+   	- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
   
 - ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 	- ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
