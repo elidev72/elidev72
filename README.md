@@ -28,15 +28,20 @@ class Perfil:
         self.intereses = ["desarrollo web backend", "ciencia de datos", "gnu/linux"]
 	self.lenguaje_preferido = "Python"
         self.estudios = (
-            	{"Carrera": "Analista Programador Universitario",
+            	{"Carrera": "Licenciatura en Sistemas",
+             	"Universidad": "Universidad Nacional de Lanús",
+             	"Ingreso": 2019,
+             	"Egreso": 2027}, # Fecha estimada de graduación
+
+		{"Carrera": "Analista Programador Universitario",
              	"Universidad": "Universidad Nacional de Lanús",
              	"Ingreso": 2019,
              	"Egreso": 2025}, # Fecha estimada de graduación
 
-		{"Carrera": "Licenciatura en Sistemas",
-             	"Universidad": "Universidad Nacional de Lanús",
-             	"Ingreso": 2019,
-             	"Egreso": 2027} # Fecha estimada de graduación
+		{"Carrera": "Tecnicatura en Programación",
+             	"Universidad": "Escuela Secundaria N°12 Banfield",
+             	"Ingreso": 2015,
+             	"Egreso": 2017}
 	)
 
 ```
