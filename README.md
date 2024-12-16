@@ -1,9 +1,9 @@
 <h1 align="center" style="font-size: 80px;">¡Hola, soy Elías! <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" /></h1>
 
-<a href="https://www.linkedin.com/in/elidev72/">
+<a href="https://www.linkedin.com/in/elidev72/" target="_blank">
   <img align="left" alt="LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
 </a>
-<a href="https://t.me/elidev72">
+<a href="https://t.me/elidev72" target="_blank">
   <img align="left" alt="Telegram" width="24px" src="https://img.icons8.com/nolan/96/telegram-app.png" />
 </a>
 <a href="mailto:elidev72@gmail.com">
