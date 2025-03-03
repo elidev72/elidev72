@@ -26,11 +26,6 @@ class Perfil:
         desafiantes donde pueda aplicar mis habilidades en el desarrollo de aplicaciones innovadoras
         y crecer profesionalmente."""
         self.estudios = (
-            {"Carrera": "Licenciatura en Sistemas",
-            "Institución educativa": "Universidad Nacional de Lanús",
-            "Ingreso": 2019,
-            "Egreso": 2027}, # Fecha estimada de graduación
-
             {"Carrera": "Analista Programador Universitario",
             "Institución educativa": "Universidad Nacional de Lanús",
             "Ingreso": 2019,
